@@ -7,7 +7,7 @@ This project uses Javascript, Plotly and D3 to build an interactive dashboard ex
 
 In a sample size of 60 belly buttons, over 2300 species were discovered. Eight of those species were present in more than 70% of people, while the remaining species were rare in more than one person.
 
-Link to Dashboard: ![Dashboard](https://laurenemilyto.github.io/plot.ly-biodiversity/)
+Link to Dashboard: (https://laurenemilyto.github.io/plot.ly-biodiversity/)
 
 ## Technology
 - D3 
@@ -20,7 +20,7 @@ Link to Dashboard: ![Dashboard](https://laurenemilyto.github.io/plot.ly-biodiver
 ## Dashboard
 Bootstrap and custom css are used to design the dashboard below: 
 
-<img src= "https://www.pinterest.com/pin/184014334765125066/" width=400 align=center> <br>
+<img src="https://i.pinimg.com/originals/eb/08/7d/eb087dd6e790e41808c54e70f1b1f458.jpg" width=400 align=center> <br>
 
 ## Link
 
