@@ -27,8 +27,6 @@ Link to Dashboard: (https://laurenemilyto.github.io/plot.ly-biodiversity/)
 
 * Used `otu_labels` as the hovertext for the chart.
 
-  ![bar Chart](Images/hw01.png)
-
 3. Created a bubble chart that displays each sample.
 
 * Used `otu_ids` for the x values.
